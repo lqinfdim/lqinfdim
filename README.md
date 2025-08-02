@@ -1,8 +1,8 @@
-# 👋 Hi, I’m Infdim.
+# 👋 Hi there, i’m Infdim.
 
 
-- 👀 I’m interested in Efficient Large Language Models, Interpretability and Working Mechanisms of LLM, and Deep Learning Theory.
-- 🌱 I’m currently working at HKUST-GZ.
+- 👀 I’m interested in efficient large language models, interpretability of LLM, and machine learning system.
+- 🌱 Currently, i'm PhD student of Tsinghua University.
 - 💞️ Feel free to drop me an email.
 
 <!--
