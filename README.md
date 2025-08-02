@@ -1,8 +1,8 @@
-# 👋 Hi there, i’m Infdim.
+# 👋 Hey there, I’m infdim.
 
 
 - 👀 I’m interested in efficient large language models, interpretability of LLM, and machine learning system.
-- 🌱 Currently, i'm PhD student of Tsinghua University.
+- 🌱 Currently, I'm CS PhD student of Tsinghua University.
 - 💞️ Feel free to drop me an email.
 
 <!--
