@@ -1,9 +1,10 @@
-# 👋 Hey there, I’m lqinfdim.
+# 👋 Hey there, I’m Qi Li.
 
 
-- 👀 I’m interested in efficient large language models, interpretability of LLM, and machine learning system.
-- 🌱 Currently, I'm a CS PhD student of Tsinghua University. Besides, I also serve as intern at HKUST-GZ.
-- 💞️ If you have any question, feel free to drop me an email.
+- 👀 My Current Research Interests are Efficient Large Language Models, Post-training of LLM, Interpretability of LLM, and Machine Learning System for LLM.
+- 🌱 Currently, I'm a CS PhD student at Tsinghua University. Besides, I also serve as intern at HKUST-GZ.
+- 📫 lqinfdim@163.com
+- 😄 I’m open to collaboration and discussion. Feel free to reach out via email
 
 <!--
 - 📫 How to reach me ...
